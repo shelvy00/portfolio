@@ -45,7 +45,7 @@ const projects = [
   },
   {
     title: "This Website",
-    repository: "",
+    repository: "https://github.com/shelvy00/portfolio",
     image: thisSite,
     icons: [SiTypescript, SiReact],
     route: undefined,
